@@ -15,4 +15,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<a href="https://app.daily.dev/anglozm"><img src="https://api.daily.dev/devcards/v2/eu0tYLGGWvn2ror2Dbd74.png?type=default&r=gcr" width="356" alt="Angel Lozada's Dev Card"/></a>
+<a href="https://app.daily.dev/anglozm"><img src="./devcard.png" width="356" alt="Angel Lozada's Dev Card"/></a>
